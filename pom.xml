@@ -10,7 +10,12 @@
     <artifactId>selenium-java</artifactId>
     <version>4.21.0</version>
 </dependency>
-	
+
+	 <dependency>
+	 	<groupId>AutomationProject2</groupId>
+	 	<artifactId>AutomationProject2</artifactId>
+	 	<version>0.0.1-SNAPSHOT</version>
+	 </dependency>
  </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
